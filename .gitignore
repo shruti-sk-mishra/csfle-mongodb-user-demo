@@ -1,0 +1,19 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Intellij
+.idea/
+**/.DS_Store
+.DS_Store
+.classpath
+.project
+.settings/
+target/
+practice.iml
+
+# Ignore Gradle build output directory
+build
+out
+
+## Jetbrains
+.idea
